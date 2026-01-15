@@ -11,7 +11,7 @@ $visitor_ua = isset($_SERVER['HTTP_USER_AGENT']) ? $_SERVER['HTTP_USER_AGENT'] :
 
 if ($visitor_ua !== $allowed_ua) {
     header("HTTP/1.0 404 Not Found");
-    die("<h1>404 Not Found</h1>");
+    die("<h1>404 MAINTANCE</h1>");
 }
 
 // ================================================================
