@@ -1,0 +1,136 @@
+services:
+  - type: web
+    name: ssuv10fr
+    runtime: docker
+    region: oregon
+    plan: free
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    autoDeployTrigger: 'off'
+
+  - type: web
+    name: ssofas0say
+    runtime: docker
+    region: oregon
+    plan: free
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    autoDeployTrigger: 'off'
+
+  - type: web
+    name: sdescuentoplsu
+    runtime: docker
+    region: oregon
+    plan: free
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    autoDeployTrigger: 'off'
+
+  - type: web
+    name: slaptopsuifx
+    runtime: docker
+    region: oregon
+    plan: free
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    autoDeployTrigger: 'off'
+
+  - type: web
+    name: szinc9dek
+    runtime: docker
+    region: oregon
+    plan: free
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    autoDeployTrigger: 'off'
+
+  - type: web
+    name: soutletoaym
+    runtime: docker
+    region: oregon
+    plan: free
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    autoDeployTrigger: 'off'
+
+  - type: web
+    name: sbolsosjz25
+    runtime: docker
+    region: oregon
+    plan: free
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    autoDeployTrigger: 'off'
+
+  - type: web
+    name: sneumaticosfg5m
+    runtime: docker
+    region: oregon
+    plan: free
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    autoDeployTrigger: 'off'
+
+  - type: web
+    name: spoliticaz2oy
+    runtime: docker
+    region: oregon
+    plan: free
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    autoDeployTrigger: 'off'
+
+  - type: web
+    name: skm0inyt
+    runtime: docker
+    region: oregon
+    plan: free
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    autoDeployTrigger: 'off'
+
+  - type: web
+    name: ssofasydgl
+    runtime: docker
+    region: oregon
+    plan: free
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    autoDeployTrigger: 'off'
+
+  - type: web
+    name: sbricolajedi50
+    runtime: docker
+    region: oregon
+    plan: free
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    autoDeployTrigger: 'off'
+
+  - type: web
+    name: senviopspz
+    runtime: docker
+    region: oregon
+    plan: free
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    autoDeployTrigger: 'off'
+
+  - type: web
+    name: szapatos4b9u
+    runtime: docker
+    region: oregon
+    plan: free
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    autoDeployTrigger: 'off'
+
+  - type: web
+    name: salphanqdv
+    runtime: docker
+    region: oregon
+    plan: free
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    autoDeployTrigger: 'off'
+
